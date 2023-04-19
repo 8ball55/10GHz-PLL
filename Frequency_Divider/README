@@ -1,0 +1,4 @@
+div2 - front-end ETSPC divider which is driven by a 10GHz sinusoid
+ETSPC - ETSPC divider driven by pulse, comes after div2
+TSPC - can be driven by anything under 3GHz frequency
+staticlatch - for low frequency division(can operate up to 625MHz)
