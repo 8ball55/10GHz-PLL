@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("10Ghz_Analog_PLL" "Full_PLL_Test_Bench" "schematic" "spectre")
+descriptionText = "None"
