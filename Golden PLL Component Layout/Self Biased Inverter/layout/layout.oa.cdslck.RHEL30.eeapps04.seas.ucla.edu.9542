@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      selasi
+HostName                       eeapps04.seas.ucla.edu
+ProcessIdentifier              9542
+ProcessCreationTime_UTC        1684024577
+ProcessCreationTime_Readable   Sat May 13 17:36:17 2023 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.17/ee/grad/selasi/cbin/ee215a/10Ghz_Analog_PLL/SELF_BIASED_INVERTER_9_7G/layout/layout.oa.cdslck
+TimeEditLocked                 Sat May 13 18:03:10 2023 PDT
